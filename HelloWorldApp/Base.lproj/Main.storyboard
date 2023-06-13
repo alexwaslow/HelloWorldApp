@@ -35,7 +35,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="startButtonPressed" destination="BYZ-38-t0r" eventType="touchUpInside" id="LYc-XP-rZZ"/>
+                                    <action selector="startButtonPressed" destination="BYZ-38-t0r" eventType="touchUpInside" id="aHP-LW-Jl4"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -50,8 +50,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="helloWorldLabel" destination="8bC-Xf-vdC" id="jtQ-pI-OQZ"/>
-                        <outlet property="startButton" destination="LL2-wR-3a7" id="2XR-FT-heK"/>
+                        <outlet property="helloWorldLabel" destination="poL-Lc-Yo0" id="yqI-8T-qGK"/>
+                        <outlet property="startButton" destination="LL2-wR-3a7" id="bqX-v1-Y3R"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
